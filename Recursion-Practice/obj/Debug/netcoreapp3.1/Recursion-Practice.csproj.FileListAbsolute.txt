@@ -1,0 +1,13 @@
+D:\UNIVERSIDAD\2021 I SEMESTRE\PROGRAMACION III\C SHARP\ProgramacionIII\Recursion-Practice\Recursion-Practice\obj\Debug\netcoreapp3.1\Recursion-Practice.csprojAssemblyReference.cache
+D:\UNIVERSIDAD\2021 I SEMESTRE\PROGRAMACION III\C SHARP\ProgramacionIII\Recursion-Practice\Recursion-Practice\obj\Debug\netcoreapp3.1\Recursion-Practice.AssemblyInfoInputs.cache
+D:\UNIVERSIDAD\2021 I SEMESTRE\PROGRAMACION III\C SHARP\ProgramacionIII\Recursion-Practice\Recursion-Practice\obj\Debug\netcoreapp3.1\Recursion-Practice.AssemblyInfo.cs
+D:\UNIVERSIDAD\2021 I SEMESTRE\PROGRAMACION III\C SHARP\ProgramacionIII\Recursion-Practice\Recursion-Practice\obj\Debug\netcoreapp3.1\Recursion-Practice.csproj.CoreCompileInputs.cache
+D:\UNIVERSIDAD\2021 I SEMESTRE\PROGRAMACION III\C SHARP\ProgramacionIII\Recursion-Practice\Recursion-Practice\bin\Debug\netcoreapp3.1\Recursion-Practice.exe
+D:\UNIVERSIDAD\2021 I SEMESTRE\PROGRAMACION III\C SHARP\ProgramacionIII\Recursion-Practice\Recursion-Practice\bin\Debug\netcoreapp3.1\Recursion-Practice.deps.json
+D:\UNIVERSIDAD\2021 I SEMESTRE\PROGRAMACION III\C SHARP\ProgramacionIII\Recursion-Practice\Recursion-Practice\bin\Debug\netcoreapp3.1\Recursion-Practice.runtimeconfig.json
+D:\UNIVERSIDAD\2021 I SEMESTRE\PROGRAMACION III\C SHARP\ProgramacionIII\Recursion-Practice\Recursion-Practice\bin\Debug\netcoreapp3.1\Recursion-Practice.runtimeconfig.dev.json
+D:\UNIVERSIDAD\2021 I SEMESTRE\PROGRAMACION III\C SHARP\ProgramacionIII\Recursion-Practice\Recursion-Practice\bin\Debug\netcoreapp3.1\Recursion-Practice.dll
+D:\UNIVERSIDAD\2021 I SEMESTRE\PROGRAMACION III\C SHARP\ProgramacionIII\Recursion-Practice\Recursion-Practice\bin\Debug\netcoreapp3.1\Recursion-Practice.pdb
+D:\UNIVERSIDAD\2021 I SEMESTRE\PROGRAMACION III\C SHARP\ProgramacionIII\Recursion-Practice\Recursion-Practice\obj\Debug\netcoreapp3.1\Recursion-Practice.dll
+D:\UNIVERSIDAD\2021 I SEMESTRE\PROGRAMACION III\C SHARP\ProgramacionIII\Recursion-Practice\Recursion-Practice\obj\Debug\netcoreapp3.1\Recursion-Practice.pdb
+D:\UNIVERSIDAD\2021 I SEMESTRE\PROGRAMACION III\C SHARP\ProgramacionIII\Recursion-Practice\Recursion-Practice\obj\Debug\netcoreapp3.1\Recursion-Practice.genruntimeconfig.cache
